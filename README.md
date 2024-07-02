@@ -1,3 +1,3 @@
-# Python Project Template
+# Python Book Manager
 
-Use `pipreqs --force` to generate `requirement.txt`.
+Simple book manager written in python.
